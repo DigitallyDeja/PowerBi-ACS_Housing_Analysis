@@ -3,11 +3,11 @@
 This project explores housing affordability trends in the U.S., focusing on **median household income, median rent, and income-to-rent gaps**. It demonstrates **data cleaning, KPI calculation, and interactive visualizations** using Power BI.  
 
 ## Datasets Used
-- <a target=“blank_" href="https://github.com/DigitallyDeja/PowerBi-ACS_Housing_Analysis/blob/main/income_percentage.csv”>Number of Cost Burdened Households</a>
+- <a  href="https://github.com/DigitallyDeja/PowerBi-ACS_Housing_Analysis/blob/main/income_percentage.csv” target=“_blank">Number of Cost Burdened Households</a>
 
-- <a target=“blank_” href="https://github.com/DigitallyDeja/PowerBi-ACS_Housing_Analysis/blob/main/state_median_income.csv”>Median Household Income</a>
+- <a  href="https://github.com/DigitallyDeja/PowerBi-ACS_Housing_Analysis/blob/main/state_median_income.csv” target=“_blank”>Median Household Income</a>
 
-- <a target=“blank_” href="https://github.com/DigitallyDeja/PowerBi-ACS_Housing_Analysis/blob/main/median_gross_rent.csv”>Median Rent</a>
+- <a href="https://github.com/DigitallyDeja/PowerBi-ACS_Housing_Analysis/blob/main/median_gross_rent.csv” target=“_blank”>Median Rent</a>
 
 ## 🔑 Key Skills Demonstrated
 - **Data Analysis & Cleaning**: Merged multiple ACS datasets and handled missing or inconsistent values.  
