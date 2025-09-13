@@ -20,6 +20,11 @@ This project explores housing affordability trends in the U.S., focusing on **me
 - How does the distribution of households with cost-burden levels depict the number of households that are financially affected and those that are not?
 - How much of the household’s median income remains after paying annual rent?
 - Are the ACS estimates according to the Margin of Error amounts?
+
+## Process 
+- Verify data for any missing data and anomalies, and transform data in Power BI
+- Made sure that the data is consistent with respect to the data type, data format, and values used 
+- Created charts according to the KPIs asked for and ensured that the dashboard accurately highlights this
   
 ## 🔑 Key Skills Demonstrated
 - **Data Analysis & Cleaning**: Merged multiple ACS datasets and handled missing or inconsistent values.  
