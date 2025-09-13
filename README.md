@@ -9,6 +9,18 @@ This project explores housing affordability trends in the U.S., focusing on **me
 
 - <a href="https://github.com/DigitallyDeja/PowerBi-ACS_Housing_Analysis/blob/main/median_gross_rent.csv" target="_blank">Median Rent</a>
 
+## Questions KPIs 
+### Summary KPI cards
+- What is the national average rent price?
+- What is the average median household income?
+- What is the national percentage of households that are cost-burdened?
+
+### Core KPIs 
+- Which states face the heaviest financial strain when the median income is allocated towards rent
+- How does the distribution of households with cost-burden levels depict the number of households that are financially affected and those that are not?
+- How much of the household’s median income remains after paying annual rent?
+- Are the ACS estimates according to the Margin of Error amounts?
+  
 ## 🔑 Key Skills Demonstrated
 - **Data Analysis & Cleaning**: Merged multiple ACS datasets and handled missing or inconsistent values.  
 - **Power BI Visualizations**: Created column, bar, scatter, and waterfall charts to highlight key insights.  
