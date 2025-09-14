@@ -26,27 +26,30 @@ This project explores housing affordability trends in the U.S., focusing on **me
 - Made sure that the data is consistent with respect to the data type, data format, and values used 
 - Created charts according to the KPIs asked for and ensured that the dashboard accurately highlights this
   
-## 🔑 Key Skills Demonstrated
+## Key Skills Demonstrated
 - **Data Analysis & Cleaning**: Merged multiple ACS datasets and handled missing or inconsistent values.  
 - **Power BI Visualizations**: Created column, bar, scatter, and waterfall charts to highlight key insights.  
 - **Calculated Metrics & Measures**: Developed **Income-to-Rent Gap** and **MOE ratios** to quantify uncertainty.  
-- **Insight Communication**: Designed visuals and KPIs that clearly convey housing cost burdens.  
+- **Insight Communication**: Designed visuals and KPIs that clearly convey housing cost burdens.
 
----
+### Process 
+- Verify data for any missing data and anomalies, and transform data in Power BI
+- Made sure that the data is consistent with respect to the data type, data format, and values used 
+- Created charts according to the KPIs. 
 
-## Insights
-- **Income-to-Rent Gap** identifies areas where households are most financially strained.  
-- **MOE Ratios** (e.g., 2.15%) ensure the estimates are reliable.  
-- Analysis supports **policy evaluation**, **urban planning**, and **affordability research**.  
 
----
+## ACS Insights
 
-## ⚙️ How to Explore
-1. Download `Housing_CostBurden.pbix`.  
-2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).  
-3. Interact with charts and filters to explore the data.  
+- The state that has the highest Rent to Income percentage is Florida, which is around 28% 
 
----
+- The majority of households are cost-burdened (50% or more). This means that housing in states such as Florida, ~54%, California, ~51%, and Louisiana, ~52% more cost burden, and in North Dakota, ~50% the cost burden is the lowest amongst all states (<30%), which shows that it’s affordable.
+
+- After deducting the median income and average rent price, the average household has around $ 61,000 on average (pre-tax) in 2023.
+
+- Some states show a higher percentage of Margins of Error (MOE), which aligns with the higher percentages of cost-burdened households. The findings show that the higher the MOE, the less reliable the data is for the state, and a lower MOE indicates the accuracy of the data.
+
+
+
 
 ## 📚 Data Source
 - American Community Survey (ACS) – U.S. Census Bureau  
