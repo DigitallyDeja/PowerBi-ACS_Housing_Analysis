@@ -32,12 +32,6 @@ This project explores housing affordability trends in the U.S., focusing on **me
 - **Calculated Metrics & Measures**: Developed **Income-to-Rent Gap** and **MOE ratios** to quantify uncertainty.  
 - **Insight Communication**: Designed visuals and KPIs that clearly convey housing cost burdens.
 
-### Process 
-- Verify data for any missing data and anomalies, and transform data in Power BI
-- Made sure that the data is consistent with respect to the data type, data format, and values used 
-- Created charts according to the KPIs. 
-
-
 ## ACS Insights
 
 - The state that has the highest Rent to Income percentage is Florida, which is around 28% 
@@ -49,8 +43,6 @@ This project explores housing affordability trends in the U.S., focusing on **me
 - Some states show a higher percentage of Margins of Error (MOE), which aligns with the higher percentages of cost-burdened households. The findings show that the higher the MOE, the less reliable the data is for the state, and a lower MOE indicates the accuracy of the data.
 
 
-
-
-## 📚 Data Source
+## Data Source
 - American Community Survey (ACS) – U.S. Census Bureau  
 
