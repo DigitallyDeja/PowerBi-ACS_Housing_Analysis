@@ -25,12 +25,6 @@ This project explores U.S. housing affordability trends using ACS data, focusing
 - Verify data for any missing data and anomalies, and transform data in Power BI
 - Made sure that the data is consistent with respect to the data type, data format, and values used 
 - Created charts according to the KPIs asked for and ensured that the dashboard accurately highlights this
-  
-## Key Skills Demonstrated
-- **Data Analysis & Cleaning**: Merged multiple ACS datasets and handled missing or inconsistent values.  
-- **Power BI Visualizations**: Created column, bar, scatter, and waterfall charts to highlight key insights.  
-- **Calculated Metrics & Measures**: Developed **Income-to-Rent Gap** and **MOE ratios** to quantify uncertainty.  
-- **Insight Communication**: Designed visuals and KPIs that clearly convey housing cost burdens.
 
 ## ACS Insights
 
