@@ -13,13 +13,13 @@ This project explores housing affordability trends in the U.S., focusing on **me
 ### Summary KPI cards
 - What is the national average rent price?
 - What is the average median household income?
-- What is the national percentage of households that are cost-burdened?
+- What is the percentage of households that are cost-burdened nationally?
 
 ### Core KPIs 
 - Which states face the heaviest financial strain when the median income is allocated towards rent
-- How does the distribution of households with cost-burden levels depict the number of households that are financially affected and those that are not?
-- How much of the household’s median income remains after paying annual rent?
-- Are the ACS estimates according to the Margin of Error amounts?
+- How does the distribution of households across cost-burden levels (<30%, 30-50%, 50%+) depict financial vulnerability?
+- How much median income remains after paying annual rent?
+- How reliable are the ACS estimates according to the Margin of Error amounts?
 
 ## Process 
 - Verify data for any missing data and anomalies, and transform data in Power BI
@@ -34,7 +34,7 @@ This project explores housing affordability trends in the U.S., focusing on **me
 
 ## ACS Insights
 
-- The state that has the highest Rent to Income percentage is Florida, which is around 28% 
+- The state that has the highest Rent to Income Ratio is Florida, which is around 28%. This highlights severe affordability levels.
 
 - The majority of households are cost-burdened (50% or more). This means that housing in states such as Florida, ~54%, California, ~51%, and Louisiana, ~52% more cost burden, and in North Dakota, ~50% the cost burden is the lowest amongst all states (<30%), which shows that it’s affordable.
 
