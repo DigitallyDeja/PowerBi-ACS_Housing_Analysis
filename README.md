@@ -40,6 +40,8 @@ This project explores U.S. housing affordability trends using ACS data, focusing
 
   This analysis highlights the growing challenges of housing affordability across the U.S., revealing clear state-level differences in financial strain and cost-burdened households. By combining affordability measures with statistical reliability (MOE ratios), the dashboard not only identifies where housing is least affordable but also provides context for how confident we can be in those findings. This project demonstrates the ability to transform raw ACS data into actionable insights that can support policymakers, housing advocates, and analysts in understanding and addressing the affordability crisis.
 
+<img width="1066" height="600" alt="Screenshot 2025-09-13 at 10 22 39 PM" src="https://github.com/user-attachments/assets/9abcce16-a144-4f1f-8547-4ff2be80cbe2" />
+
 ## Data Source
 - American Community Survey (ACS) – U.S. Census Bureau  
 
