@@ -9,6 +9,9 @@ This project explores U.S. housing affordability trends using ACS data, focusing
 
 - <a href="https://github.com/DigitallyDeja/PowerBi-ACS_Housing_Analysis/blob/main/median_gross_rent.csv" target="_blank">Median Rent</a>
 
+## Tools Used 
+- Power BI (DAX), This is used to clean, transform and visualize insights in the Power BI platform. 
+
 ## Questions KPIs 
 ### Summary KPI cards
 - What is the national average rent price?
